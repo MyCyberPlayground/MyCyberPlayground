@@ -255,13 +255,13 @@ Author Information:
 - **Skills Required**: Basic computer literacy
 - **Examples**: Simple web form bypasses, basic steganography
 
-### 🟡 **Code-Ninja (400-500 points)**
+### 🟡 **1337-Ninja (400-500 points)**
 - **Target Audience**: Intermediate learners
 - **Solve Time**: 2-6 hours
 - **Skills Required**: Programming knowledge, tool familiarity
 - **Examples**: SQL injection, buffer overflows, crypto attacks
 
-### 🔴 **Cyber-Samurai (800-1000 points)**
+### 🔴 **Elite-Hacker (800-1000 points)**
 - **Target Audience**: Advanced practitioners
 - **Solve Time**: 6-12 hours
 - **Skills Required**: Deep technical knowledge, research skills
