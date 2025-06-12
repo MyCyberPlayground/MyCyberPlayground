@@ -80,5 +80,5 @@ Having issues? Found a bug? Want to contribute?
 *Remember: This is for educational purposes only. Practice ethical hacking!*
 
 **Note:** Remember not to share exact flags or detailed solutions that would spoil the challenge for others!
-s
+
 ---
