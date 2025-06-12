@@ -66,6 +66,7 @@ Having issues? Found a bug? Want to contribute?
 - **Technical Problems:** Create a ticket in discord
 - **General Questions:** Check our FAQ section
 - **Community:** Join our [Discord](https://discord.gg/8KteFV78j9)
+- **Email:** info@mycyberplaygorund.xyz
 
 ---
 
